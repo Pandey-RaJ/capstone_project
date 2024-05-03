@@ -11,7 +11,7 @@ If main has the most recent branch merged to it, you can go to Steps, else switc
 
 Steps to setup from Scratch:
 
-http://localhost/capstone_project/database/refresh_database.php
+http://localhost/capstone_project/database/create_tables.php
 
 Then, in current structure, we fill with random datasets:
 
@@ -44,8 +44,3 @@ The landing page has a link to access admin portal only
 Extra Info:
 
 submit_idea.php verifies the company info and redirects user to index page directly
-Since session variables are used to set the company name in index.php and innovation_hub.php so for now user session can be reset/cleared by clicking the collaboration picture
-
-
-
-
